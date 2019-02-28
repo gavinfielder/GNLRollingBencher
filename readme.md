@@ -4,9 +4,9 @@
 
 Put this in a folder alongside your get_next_line, like:
 
-(root)
-|--get_next_line
-|--testing (this repo)
+(root)  
+|--get_next_line  
+|--testing (this repo)  
 
 In testing:
 
